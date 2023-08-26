@@ -1,0 +1,33 @@
+/* Contact.css */
+
+.contact {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .contact-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  

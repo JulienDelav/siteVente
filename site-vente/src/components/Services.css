@@ -1,0 +1,29 @@
+/* Services.css */
+
+.services {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .services-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .service {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .service-icon {
+    font-size: 36px;
+    margin-right: 10px;
+  }
+  
+  .service-description {
+    font-size: 18px;
+  }
+  
